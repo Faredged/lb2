@@ -11,6 +11,7 @@ namespace Lab2
 
             System.Console.WriteLine("Введіть максимальне число nk: ");
             int nk = int.Parse(Console.ReadLine());
+            
             System.Console.WriteLine("Введіть мінімальне число nn: ");
             int nn = int.Parse(Console.ReadLine());
 
